@@ -1,8 +1,8 @@
 # John Doe - Cybersecurity Analyst
 
-![Gitu](gituphoto.png) <!-- Optional: Add your professional photo here - even incorporate it as a banner in Canva or other image editor! -->
+![John Doe](sample-photo.png) <!-- Optional: Add your professional photo here - even incorporate it as a banner in Canva or other image editor! -->
 
-[Email Me](mailto:git@gmail.com) | [LinkedIn](https://www.linkedin.com/in/johndoe/) 
+[Email](mailto:john.doe@example.com) | [LinkedIn](https://www.linkedin.com/in/johndoe/) | [Website](https://www.johndoe.com) 
 
 ---
 
@@ -46,6 +46,14 @@ I am passionate about applying my knowledge to protect organizations from evolvi
 - Knowledge of forensics, including investigating and analyzing digital evidence and registry forensics
 - Experience with malware analysis and understanding its role in threat defense
 
+### Python Scripting
+- Ability to write Python scripts to automate and enhance cybersecurity measures
+- Experience with analyzing logs, system, and network traffic through custom scripts
+
+### Security Policies and GRC
+- Understanding of GRC (Governance, Risk, and Compliance) requirements and recommendations
+- Experience in developing and adhering to security policies that align with organizational needs
+
 
 ---
 
@@ -57,11 +65,13 @@ I am passionate about applying my knowledge to protect organizations from evolvi
 
 ## Projects
 
+### [Project 1: The Stolen Szechuan Sauce Forensics Analysis](https://github.com/johndoe/szechuansauce)
+A comprehensive toolkit designed to automate penetration testing tasks. It includes scripts and tools for reconnaissance, exploitation, and post-exploitation phases.
 
-### [Risk Management Case Study](https://github.com/johndoe/risk-management)
+### [Project 2: Risk Management Case Study](https://github.com/johndoe/risk-management)
 Conducted a basic network vulnerability assessment on a small lab environment. Identified potential security flaws and recommended mitigation strategies.
 
-### [Project: Cat's Company Vulnerabilities](https://github.com/johndoe/cats-company-vulnerabilities)
+### [Project 3: Cat's Company Vulnerabilities](https://github.com/johndoe/cats-company-vulnerabilities)
 Explored common web application vulnerabilities, including SQL injection and XSS, and implemented basic protective measures.
 
 ### [Project 4: Investigation & Research Report](https://github.com/johndoe/investigation-and-research-report)
@@ -85,6 +95,18 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 ### Lighthouse Labs, Cybersecurity
 *2024*
 
+
+---
+
+## Blog/Writing
+- [My Journey into Cybersecurity](https://www.johndoe.com/blog/my-journey)
+- [Top 5 Lessons from My Bootcamp Experience](https://www.johndoe.com/blog/bootcamp-lessons)
+
+---
+
+## Public Speaking & Workshops
+- **Lighthouse Labs Bootcamp Final Presentation:** "Securing Premium House Lights from Cyber Attack"
+
 ---
 
 ## Testimonials
@@ -105,9 +127,38 @@ Feel free to reach out to me via [email](mailto:john.doe@example.com) or connect
 
 *Looking forward to contributing to the cybersecurity community!*
 
-![Profile Views](https://komarev.com/ghpvc/?username=abc&label=My%20Profile%20Views:&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=replace-with-your-github-username&label=My%20Profile%20Views:&style=flat-square&color=blue)
 
 ---
 ---
 ---
+Below are just some 'buttons' ('shields') you can study how to use them and modify them.  Get more information at [https://shields.io](https://shields.io/badges)
+
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+## Certifications
+![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-RED?style=plastic&logo=hackthebox&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA2D2F?style=plastic&logo=comptia&logoColor=white)
+
+## Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+
+## Custom Badge
+![Custom Badge](https://img.shields.io/badge/Split-Color-brightgreen?style=for-the-badge&logo=custom&logoColor=white)
+![Custom Badge](https://img.shields.io/badge/Solid%20Color-blue?style=for-the-badge&logo=custom&logoColor=white)
+
+
+
 
